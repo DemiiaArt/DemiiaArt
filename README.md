@@ -1,22 +1,24 @@
 
-<p align="center"># 🏠 Hello, IT community👋 I`m Natali</p>
-### I`m 💻 Frontend Developer with UI/UX skills
+<p align="center" font-size='24px'>🏠 Hello, IT community👋 I`m Natali</p>
+ I`m 💻 Frontend Developer with UI/UX skills
+<hr>
 
-
-## 📲 My Links
+ 📲 My Links
 
 - 🔃Example of using Rest API and React [Chack Norris Jokes](https://demiiaart.github.io/chack_norris_jokes_react/)
 - 🎨Design of Furniture shop (in process of developing) [ComfortZone](https://www.figma.com/proto/g8fz1SBebn1uRbPcbvx8ZS/Comfort-zone?page-id=0%3A1&type=design&node-id=1-2&viewport=220%2C253%2C0.24&t=GpgyAQUp6Ef6oWS2-1&scaling=scale-down&starting-point-node-id=1%3A2&show-proto-sidebar=1&mode=design)
 - Hard CSS + HTML skills (website project) [hLegal](https://demiiaart.github.io/FinalProjectBaseCSS/)
+<hr>
 
-## 💡 About Me
-
+ 💡 About Me
+ 
+- 😁I`m full of passion to Frontend Dev and cats😻
 - My hobbies are oil painting, driving and walking
 - 💌 You can write to me at demiia.art@gmail.com or LinkedIn
 - And if you like art - subscribe to my instagram😘 @demiia_art
+<hr>
 
-
-## 🔨 Skills
+ 🔨 Skills
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Skills" align="left" width="60" height="80"/>  
@@ -41,13 +43,14 @@
 
 <br><br><br>
 
-## 📰 Social links
+ 📰 Social links
  - [LinkedIn](https://www.linkedin.com/in/nataliia-demianenko-developer/)
  - [Telegram](https://t.me/nataliya_demianenko)
  - [Art Instagram](https://www.instagram.com/demiia_art/)
+<hr>
 
-
-## 👾 GitHub widgets
+ 👾 GitHub widgets
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DemiiaArt&show_icons=true&locale=en&layout=compact" alt="Most used languages"/>
  <img src="https://github-profile-trophy.vercel.app/?username=DemiiaArt" alt="GitHub Trophy"/>
 
 
