@@ -50,7 +50,7 @@
 <hr>
 
  👾 GitHub widgets
- <div align="center">
+ <div align="start">
  <br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DemiiaArt&show_icons=true&locale=en&layout=compact" alt="Most used languages"/>
   <br>
