@@ -1,14 +1,6 @@
 
-<h1 align="center" > Hello, IT community👋 I`m Natali</h1>
- 
+<h2 align="center" > Hello, IT community👋 I`m Natali</h2>
 <h3 align="center" >💻 Frontend Developer with UI/UX skills</h3>
-
- 📲 My Links
-
-- 🔃Example of using Rest API and React [Chack Norris Jokes](https://demiiaart.github.io/chack_norris_jokes_react/)
-- 🎨Design of Furniture shop (in process of developing) [ComfortZone](https://www.figma.com/proto/g8fz1SBebn1uRbPcbvx8ZS/Comfort-zone?page-id=0%3A1&type=design&node-id=1-2&viewport=220%2C253%2C0.24&t=GpgyAQUp6Ef6oWS2-1&scaling=scale-down&starting-point-node-id=1%3A2&show-proto-sidebar=1&mode=design)
-- Hard CSS + HTML skills (website project) [hLegal](https://demiiaart.github.io/FinalProjectBaseCSS/)
-<hr>
 
  💡 About Me
  
@@ -16,6 +8,13 @@
 - My hobbies are oil painting, driving and walking
 - 💌 You can write to me at demiia.art@gmail.com or [LinkedIn](https://www.linkedin.com/in/nataliia-demianenko-developer/)
 - And if you like art - subscribe to my instagram😘👉 [demiia_art](https://www.instagram.com/demiia_art/)
+<hr>
+
+ 📲 My Links
+
+- 🔃Example of using Rest API and React [Chack Norris Jokes](https://demiiaart.github.io/chack_norris_jokes_react/)
+- 🎨Design of Furniture shop (in process of developing) [ComfortZone](https://www.figma.com/proto/g8fz1SBebn1uRbPcbvx8ZS/Comfort-zone?page-id=0%3A1&type=design&node-id=1-2&viewport=220%2C253%2C0.24&t=GpgyAQUp6Ef6oWS2-1&scaling=scale-down&starting-point-node-id=1%3A2&show-proto-sidebar=1&mode=design)
+- Hard CSS + HTML skills (website project) [hLegal](https://demiiaart.github.io/FinalProjectBaseCSS/)
 <hr>
 
  🔨 Skills
