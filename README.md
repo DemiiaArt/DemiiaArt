@@ -1,7 +1,7 @@
 
 <p align="center" font-size='32px'> Hello, IT community👋 I`m Natali</p>
  
-<p align="center" font-size='24px'>I`m 💻 Frontend Developer with UI/UX skills</p>
+<p align="center" font-size='24px'>💻 Frontend Developer with UI/UX skills</p>
 <hr>
 
  📲 My Links
