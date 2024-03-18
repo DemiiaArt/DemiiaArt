@@ -40,7 +40,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="Skills" align="left" width="60" height="80"/> 
 </div>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <hr>
 
  📲 Social links
