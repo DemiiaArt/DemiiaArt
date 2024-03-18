@@ -1,7 +1,7 @@
 
-<p align="center" font-size='32'> Hello, IT community👋 I`m Natali</p>
+<h1 align="center" > Hello, IT community👋 I`m Natali</h1>
  
-<p align="center" font-size='24'>💻 Frontend Developer with UI/UX skills</p>
+<h2 align="center" >💻 Frontend Developer with UI/UX skills</h2>
 <hr>
 
  📲 My Links
