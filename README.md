@@ -1,7 +1,7 @@
 
-<p align="center" font-size='32px'> Hello, IT community👋 I`m Natali</p>
+<p align="center" font-size='32'> Hello, IT community👋 I`m Natali</p>
  
-<p align="center" font-size='24px'>💻 Frontend Developer with UI/UX skills</p>
+<p align="center" font-size='24'>💻 Frontend Developer with UI/UX skills</p>
 <hr>
 
  📲 My Links
@@ -45,7 +45,7 @@
 <br><br><br><br><br><br>
 <hr>
 
- 📰 Social links
+ 📲 Social links
  - [LinkedIn](https://www.linkedin.com/in/nataliia-demianenko-developer/)
  - [Telegram](https://t.me/nataliya_demianenko)
  - [Art Instagram](https://www.instagram.com/demiia_art/)
