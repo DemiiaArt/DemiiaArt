@@ -1,6 +1,7 @@
 
-<p align="center" font-size='24px'>🏠 Hello, IT community👋 I`m Natali</p>
- I`m 💻 Frontend Developer with UI/UX skills
+<p align="center" font-size='32px'> Hello, IT community👋 I`m Natali</p>
+ 
+<p align="center" font-size='24px'>I`m 💻 Frontend Developer with UI/UX skills</p>
 <hr>
 
  📲 My Links
@@ -42,6 +43,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="Skills" align="left" width="60" height="80"/> 
 
 <br><br><br>
+<hr>
 
  📰 Social links
  - [LinkedIn](https://www.linkedin.com/in/nataliia-demianenko-developer/)
@@ -50,7 +52,11 @@
 <hr>
 
  👾 GitHub widgets
+ <div align="center">
+ <br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DemiiaArt&show_icons=true&locale=en&layout=compact" alt="Most used languages"/>
+  <br>
  <img src="https://github-profile-trophy.vercel.app/?username=DemiiaArt" alt="GitHub Trophy"/>
+ </div>
 
 
