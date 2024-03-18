@@ -15,8 +15,8 @@
  
 - 😁I`m full of passion to Frontend Dev and cats😻
 - My hobbies are oil painting, driving and walking
-- 💌 You can write to me at demiia.art@gmail.com or LinkedIn
-- And if you like art - subscribe to my instagram😘 @demiia_art
+- 💌 You can write to me at demiia.art@gmail.com or [LinkedIn](https://www.linkedin.com/in/nataliia-demianenko-developer/)
+- And if you like art - subscribe to my instagram😘👉 [demiia_art](https://www.instagram.com/demiia_art/)
 <hr>
 
  🔨 Skills
